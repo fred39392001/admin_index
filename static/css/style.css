@@ -12,6 +12,13 @@
 	background-repeat: no-repeat;
 }
 
+.bg-contain-center{
+	background-size: contain;
+  background-position: center center;
+	background-repeat: no-repeat;
+}
+
+
 .bg-gray {
   background-color: #e3e3e7;
 }
